@@ -12,4 +12,5 @@ func main() {
 	//todo:init storage
 	//todo:init router
 	//todo:run server
+	//todo
 }
