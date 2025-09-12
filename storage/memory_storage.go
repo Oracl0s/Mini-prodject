@@ -1,7 +1,7 @@
 package storage
 
 import (
-	"https://github.com/Oracl0s/Mini-prodject/models"
+	"github.com/Oracl0s/Mini-prodject/models"
 	"time"
 ) // Замените "your-module-name" на имя вашего модуля
 

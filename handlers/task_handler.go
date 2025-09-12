@@ -2,8 +2,8 @@ package handlers
 
 import (
 	"encoding/json"
-	"https://github.com/Oracl0s/Mini-prodject/models"
-	"https://github.com/Oracl0s/Mini-prodject/storage"
+	"github.com/Oracl0s/Mini-prodject/models"
+	"github.com/Oracl0s/Mini-prodject/storage"
 	"net/http"
 	"strconv"
 
