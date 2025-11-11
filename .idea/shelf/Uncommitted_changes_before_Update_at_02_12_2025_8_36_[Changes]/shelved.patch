@@ -1,0 +1,20 @@
+Index: cmd/main.go
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package main\r\n\r\nimport \"fmt\"\r\n\r\nfunc main() {\r\n\tfmt.Println(\"hello world\")\r\n\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/cmd/main.go b/cmd/main.go
+--- a/cmd/main.go	(revision aae99d81e42363a38f1bf45d0d2faa3e84a35415)
++++ b/cmd/main.go	(date 1763988457443)
+@@ -3,6 +3,7 @@
+ import "fmt"
+ 
+ func main() {
+-	fmt.Println("hello world")
+-
++	for {
++		fmt.Println("Hello World")
++	}
+ }
