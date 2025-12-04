@@ -10,5 +10,5 @@ func main() {
 	p.Interface()
 	p.SayHello(&p.Russian{}, "Russian")
 	p.SayHello(&p.America{}, "America")
-	p.Users()
+
 }
